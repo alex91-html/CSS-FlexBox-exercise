@@ -1,0 +1,32 @@
+.flex-parent {
+    border: 2px solid blue;
+    height: 400px;
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    gap: 4px;
+    flex-wrap: wrap;
+}
+
+.flex-child {
+    width: 200px; /* one can also use % */
+    height: 100px;
+}
+
+.red {
+background: red;
+}
+
+.blue {
+background: blue;
+}
+
+.orange {
+background: orange;
+}
+
+.pink {
+background: pink;
+}
