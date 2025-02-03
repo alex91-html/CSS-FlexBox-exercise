@@ -1,4 +1,4 @@
-# CSS_Flex_BOX_Basics_practice
+# CSS_Flex_BOX_Basics_exercise
 CSS flex box basics exercise.
 
 Exercise: 
