@@ -15,6 +15,9 @@ Make a child stretch out (grow)!
 > https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 
+<img width="1043" alt="Screenshot 2025-02-11 at 00 15 09" src="https://github.com/user-attachments/assets/24f919f2-4de6-4e65-aefd-5bc944810183" />
+
+
 
 
 <!--    
